@@ -1,4 +1,4 @@
-# 🧠 Multi-Agent Shopping & Support System  
+# 🧠 Multi-Agent Shopping & Support System   
 
 This project defines a triage-based multi-agent architecture powered by **Gemini 2.5 Flash** models. It helps users with shopping decisions and post-purchase support by intelligently routing queries to the right agent.
 
@@ -73,6 +73,7 @@ This README is designed to:
 - Clarify each agent’s role.
 - Provide setup and usage guidance.
 - Be ready for GitHub publishing.
+
 
 
 
