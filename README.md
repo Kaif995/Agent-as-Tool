@@ -14,7 +14,7 @@ The system includes three specialized agents:
 
 ---
 
-## 🧩 Agent Roles
+## 🧩 Agent Roles 
 
 ### 🔁 Triage Agent
 
@@ -73,6 +73,7 @@ This README is designed to:
 - Clarify each agent’s role.
 - Provide setup and usage guidance.
 - Be ready for GitHub publishing.
+
 
 
 
