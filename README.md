@@ -12,7 +12,7 @@ The system includes three specialized agents:
 - **Shopping Agent**: Assists users in finding products and making purchase decisions.
 - **Support Agent**: Handles post-purchase issues, returns, and customer support.
 
----
+--- 
 
 ## 🧩 Agent Roles 
 
@@ -73,6 +73,7 @@ This README is designed to:
 - Clarify each agent’s role.
 - Provide setup and usage guidance.
 - Be ready for GitHub publishing.
+
 
 
 
