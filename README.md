@@ -4,7 +4,7 @@ This project defines a triage-based multi-agent architecture powered by **Gemini
 
 ---
  
-## 📦 Project Overview    
+## 📦 Project Overview     
 
 The system includes three specialized agents:
 
@@ -73,6 +73,7 @@ This README is designed to:
 - Clarify each agent’s role.
 - Provide setup and usage guidance.
 - Be ready for GitHub publishing.
+
 
 
 
